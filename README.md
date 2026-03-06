@@ -3,16 +3,16 @@
 ## 📊 Dashboard Preview
 
 ### Overview
-![Dashboard Overview](images/page1.png)
+![Dashboard Overview](Photo/page1.png)
 
 ### Market Share & Ratings
-![Market Share](images/page2.png)
+![Market Share](Photo/page2.png)
 
 ### Detailed Ratings Analysis
-![Ratings](images/page3.png)
+![Ratings](Photo/page3.png)
 
 ### Review Frequency & Seasonality
-![Seasonality](images/page4.png)
+![Seasonality](Photo/page4.png)
 
 
 ---
@@ -103,7 +103,7 @@ The data was cleaned, transformed, and modeled in **Power BI** to create an inte
 
 # 👨‍💻 Author
 
-**Your Name**
+Mayur Makwana v.
 
 Aspiring Data Analyst | Power BI | Data Visualization
 
